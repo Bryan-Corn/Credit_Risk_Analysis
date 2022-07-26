@@ -18,5 +18,28 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ~~~
 
-## Deliverable 1: 
+## Deliverable 1:
 ### Use Resampling Models to Predict Credit Risk
+
+
+• Evaluate three machine learning models by using resampling to determine which is better at predicting credit risk.
+
+• Then, use the undersampling ClusterCentroids algorithm.
+
+• Using these algorithms:
+~~~
+• Resample the dataset
+
+• View the count of the target classes
+
+• Train a logistic regression classifier
+
+• Calculate the balanced accuracy score, 
+
+• Generate a confusion matrix
+
+• Generate a classification report.
+~~~
+
+## Deliverable 2:
+### Use the SMOTEENN algorithm to Predict Credit Risk
