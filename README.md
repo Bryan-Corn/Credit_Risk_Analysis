@@ -59,6 +59,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 • Balanced Accuracy Score:
 
 • Precision/recall Score:
+
 ![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/EasyEnsembleClassifier.png)
 
 
