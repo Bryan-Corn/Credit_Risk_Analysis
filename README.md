@@ -16,7 +16,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 ## Results
 # Naive Random Oversampling
 
-• Balanced Accuracy Score:
+• Balanced Accuracy Score: 0.625
 
 • Precision/recall Score:
 
@@ -24,7 +24,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 # SMOTE Oversampling
 
-• Balanced Accuracy Score:
+• Balanced Accuracy Score: 0.651
 
 • Precision/recall Score:
 
@@ -32,7 +32,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 # Cluster Centroids Undersampling
 
-• Balanced Accuracy Score:
+• Balanced Accuracy Score: 0.529
 
 • Precision/recall Score:
 
@@ -40,7 +40,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 # SMOTEEN Combination (Over and Under) Sampling
 
-• Balanced Accuracy Score:
+• Balanced Accuracy Score: 0.638
 
 • Precision/recall Score:
 
@@ -48,7 +48,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 # Balanced Random Forest Classifier
 
-• Balanced Accuracy Score:
+• Balanced Accuracy Score: 0.788
 
 • Precision/recall Score:
 
@@ -56,7 +56,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 # Easy Ensemble Classifier
 
-• Balanced Accuracy Score:
+• Balanced Accuracy Score: 0.925
 
 • Precision/recall Score:
 
