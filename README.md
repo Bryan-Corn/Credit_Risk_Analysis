@@ -8,7 +8,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 • Naive Random Oversampling
 • SMOTE Oversampling
 • ClusterCentroids Undersampling
-• SMOTEEN Over- and Undersampling
+• SMOTEEN Combination (Over and Under) Sampling
 • Balanced Random Forest Classifier
 • Easy Ensemble Classifier
 ~~~
@@ -38,7 +38,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 ![image]()
 
-# SMOTEEN Over- and Undersampling
+# SMOTEEN Combination (Over and Under) Sampling
 
 • Balanced Accuracy Score:
 
