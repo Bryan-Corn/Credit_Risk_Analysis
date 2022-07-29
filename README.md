@@ -20,7 +20,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Precision/recall Score:
 
-![image]()
+![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/NaiveRandomOversampling.png)
 
 # SMOTE Oversampling
 
@@ -28,7 +28,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Precision/recall Score:
 
-![image]()
+![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTEOversampling.png)
 
 # Cluster Centroids Undersampling
 
@@ -36,7 +36,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Precision/recall Score:
 
-![image]()
+![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/ClusterCentroidsUndersampling.png)
 
 # SMOTEEN Combination (Over and Under) Sampling
 
@@ -44,7 +44,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Precision/recall Score:
 
-![image]()
+![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTEENCombinationSampling.png)
 
 # Balanced Random Forest Classifier
 
@@ -52,14 +52,14 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Precision/recall Score:
 
-![image]()
+![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/BalancedRandomForestClassifier.png)
 
 # Easy Ensemble Classifier
 
 • Balanced Accuracy Score:
 
 • Precision/recall Score:
-![image]()
+![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/EasyEnsembleClassifier.png)
 
 
 ## Summary
