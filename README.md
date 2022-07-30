@@ -18,7 +18,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Balanced Accuracy Score: 0.625
 
-• Precision/recall Score:
+• Precision/recall Score: 0.99/0.65
 
 ![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/NaiveRandomOversampling.png)
 
@@ -26,7 +26,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Balanced Accuracy Score: 0.651
 
-• Precision/recall Score:
+• Precision/recall Score: 0.99/0.66
 
 ![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTEOversampling.png)
 
@@ -34,7 +34,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Balanced Accuracy Score: 0.529
 
-• Precision/recall Score:
+• Precision/recall Score: 0.99/0.45
 
 ![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/ClusterCentroidsUndersampling.png)
 
@@ -42,7 +42,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Balanced Accuracy Score: 0.638
 
-• Precision/recall Score:
+• Precision/recall Score: 0.99/0.57
 
 ![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTEENCombinationSampling.png)
 
@@ -50,7 +50,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Balanced Accuracy Score: 0.788
 
-• Precision/recall Score:
+• Precision/recall Score: 0.99/0.91
 
 ![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/BalancedRandomForestClassifier.png)
 
@@ -58,7 +58,7 @@ The purpose of this project is to predict credit risk using machine learning. Cr
 
 • Balanced Accuracy Score: 0.925
 
-• Precision/recall Score:
+• Precision/recall Score: 0.99/0.94
 
 ![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/EasyEnsembleClassifier.png)
 
