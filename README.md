@@ -1,3 +1,5 @@
+![image](https://github.com/Bryan-Corn/Credit_Risk_Analysis/blob/main/Resources/Images/What-is-Credit-Risk-Modeling.png)
+
 # Credit_Risk_Analysis
 Module 17 Challenge
 
